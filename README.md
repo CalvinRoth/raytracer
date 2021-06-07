@@ -5,7 +5,7 @@ I implemented several interesting features including:
  + The AABB data structure for faster collision detection
  + Better infastructure for adding objcts
  
-[[https://github.com/CalvinRoth/raytracer/blob/master/RayTracingWeek/image/image2021.png]]
+![oops](https://raw.githubusercontent.com/CalvinRoth/raytracer/master/RayTracingWeek/image/image2021.png "Example Image")
 
 This project is basically infinitely extensible but I have limited interest in it as of writing I have limited interest.
 Top priorities would be
